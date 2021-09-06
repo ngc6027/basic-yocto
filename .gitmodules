@@ -1,7 +1,7 @@
 [submodule "meta-xilinx"]
-	path = meta-xilinx
+	path = yocto/layers/meta-xilinx
 	url = https://github.com/Xilinx/meta-xilinx.git
 [submodule "meta-virtualization"]
-	path = meta-virtualization
+	path = yocto/layers/meta-virtualization
 	url = https://git.yoctoproject.org/git/meta-virtualization
 	branch = gatesgarth

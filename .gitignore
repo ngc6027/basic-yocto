@@ -1,0 +1,5 @@
+# don't version control the caches and build dir, but keep the folders around
+yocto/caches/basic-zedboard/*/*
+!yocto/caches/basic-zedboard/*/.keep
+yocto/build/*
+!yocto/build/.keep
