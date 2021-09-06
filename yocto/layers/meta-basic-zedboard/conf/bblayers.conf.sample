@@ -9,7 +9,7 @@ BBLAYERS ?= " \
   ##OEROOT##/meta \
   ##OEROOT##/meta-poky \
   ##OEROOT##/meta-yocto-bsp \
-  ##OEROOT##/../yocto_layers/meta-openembedded/meta-oe \
-  ##OEROOT##/../yocto_layers/meta-xilinx/meta-xilinx-bsp \
-  ##OEROOT##/../yocto_layers/meta-basic-zedboard \
+  ##OEROOT##/../yocto/layers/meta-openembedded/meta-oe \
+  ##OEROOT##/../yocto/layers/meta-xilinx/meta-xilinx-bsp \
+  ##OEROOT##/../yocto/layers/meta-basic-zedboard \
   "
